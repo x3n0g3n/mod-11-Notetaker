@@ -1,1 +1,1 @@
-# note--taker
+# note-taker
